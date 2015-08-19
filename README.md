@@ -8,3 +8,9 @@ The current script:
 - Outputs results to a desired file
 - Rewrites to an existing file if desired.
 
+In the App.config file:
+    <add key="rewrite" value="1" />
+    <add key="storePath" value="C:\Users\Ibrahim\My Documents\" />
+    <add key="fileName" value="WriteCounts.txt" />
+    <add key="sourceFilePath" value="C:\Users\Ibrahim\My Documents\" />
+    <add key="sourceFileName" value="SourceFile.txt" />
