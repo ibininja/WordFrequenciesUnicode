@@ -35,24 +35,11 @@ namespace arWordCount
             else 
             {
                 string words = string.Empty;
-                System.IO.StreamReader fileSource = new System.IO.StreamReader(sourceFilePath+ sourceFileName);
-                string line;
-                int counter = 0;
+                System.IO.StreamReader fileSource = new System.IO.StreamReader(sourceFilePath+ sourceFileName);               
                 words = File.ReadAllText(sourceFilePath + sourceFileName);
-                words = words.Replace(",", "");
-               
-
-               /*
-                while ((line = fileSource.ReadLine()) != null)
-                {
-                    Console.WriteLine("Processing ..... "+ line);
-                    words = line + " "+ words;
-                     counter++;
-                }
-                */
-                
-
-                    Regex regex = new Regex("\\w+");
+                words = words.Replace(",", "");               
+                   
+                Regex regex = new Regex("\\w+");
 
                     var frequencyList = regex.Matches(words)
                         .Cast<Match>()
