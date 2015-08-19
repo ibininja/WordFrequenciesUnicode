@@ -1,0 +1,6 @@
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\bin\Debug\arWordCount.exe.config
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\bin\Debug\arWordCount.exe
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\bin\Debug\arWordCount.pdb
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\obj\Debug\arWordCount.exe
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\obj\Debug\arWordCount.pdb
+c:\users\ibrahim\documents\visual studio 2012\Projects\arWordCount\arWordCount\obj\Debug\arWordCount.csprojResolveAssemblyReference.cache
