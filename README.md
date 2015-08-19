@@ -10,8 +10,8 @@ The current script:
 
 In the App.config file:
      
-    ''<add key="rewrite" value="1" />''
-    ''<add key="storePath" value="C:\Users\Ibrahim\My Documents\" />''
+    <add key="rewrite" value="1" />
+    <add key="storePath" value="C:\Users\Ibrahim\My Documents\" />
     <add key="fileName" value="WriteCounts.txt" />
     <add key="sourceFilePath" value="C:\Users\Ibrahim\My Documents\" />
     <add key="sourceFileName" value="SourceFile.txt" />
